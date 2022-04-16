@@ -1,8 +1,3 @@
-Revised TIL file
+TIL (Today I Learned)
 
-I revised second time.
-
-# TIL
-
-Today I Learned...
-I edited TIL file.
+Moving forward, I'm gonna dedicate myself to upload what I've learned  on a daily basis. 
